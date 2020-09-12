@@ -1,0 +1,13 @@
+.form-horizontal{
+	margin-top: 20px;
+}
+
+.btn-espaco{
+	margin-top: 80px;
+}
+
+@media (min-width: 576px)
+.col-sm-2 {
+    flex: 0 0 16.666667%;    
+    max-width: 20.666667%;
+}
